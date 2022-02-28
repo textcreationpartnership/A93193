@@ -1,0 +1,128 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short ansvver to a pamphlet, entitled, The case of VVilliam Bentley printer at Finsbury near London touching his right to the printing of Bibles and Psalms.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93193</idno>
+            <idno type="STC">Wing S3560</idno>
+            <idno type="STC">Thomason 669.f.20[35]</idno>
+            <idno type="STC">ESTC R211838</idno>
+            <idno type="EEBO-CITATION">99870530</idno>
+            <idno type="PROQUEST">99870530</idno>
+            <idno type="VID">163452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163452)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short ansvver to a pamphlet, entitled, The case of VVilliam Bentley printer at Finsbury near London touching his right to the printing of Bibles and Psalms.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: The case of William Bentley printer at Finsbury near London, touching his right to the printing of Bibles and Psalms.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Novemb: 1656".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bentley, William, --  printer at Finsbury. --  Case of William Bentley Printer at Finsbury near London, touching his right to the printing of Bibles and psalms.</term>
+               <term>Bible --  Publication and distribution --  Early works to 1800.</term>
+               <term>Printing --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:163452:1" rendition="simple:additions"/>
+            <head>A SHORT ANSVVER To a Pamphlet, Entituled, <hi>The CASE &amp; of</hi> VVilliam Bentley <hi>Printer at</hi> Finsbury <hi>near</hi> London, <hi>touching his Right to the Printing of</hi> BIBLES <hi>and</hi> PSALMS.</head>
+            <p n="1">I. VVHereas <hi>Bentley</hi> inſinuates, as if the Printing at <hi>Finsbury</hi> was upon his own Accompt, the truth is, if he was any other then a Servant to, he was at the beſt but an inconſiderable Partner with certain Merchants; for they having formerly imported Bibles erroneouſly printed, and being thereupon reſtrained from any further importing, by Order of the Parliament, did erect the Printing-Houſe at <hi>Finsbury,</hi> and employed <hi>Bentley</hi> there upon their Accompt, which is the true Original of their Bible-Printing in that place; the Work being begun and carried on there, not for any publique end, but meerly for the private Profit of the ſaid Merchants, who, together with him<g ref="char:EOLhyphen"/>ſelf, were men Forreiners as to the Art and Myſtery of Printing. And that it was not out of any publique Reſpect, is evident, be<g ref="char:EOLhyphen"/>cauſe when others erected Preſſes, and ſo ordered the matter, that they ſold Bibles at cheaper Rates than theſe men of <hi>Finsbury</hi> did: Then the matter of private Profit ceaſing, the Merchants withdrew their Stocks, and <hi>Bentley</hi> himſelf alſo gave over Bible-Printing, and ſo continued for the ſpace of about Five years, but employed the Printing-Houſe in printing Popiſh-Books, and in<g ref="char:EOLhyphen"/>vading other mens Proprieties by printing their Copies from them. And as concerning the ſaid Popiſh-Books, although one of them ſeized by His Highneſs's Printers, was (by Order of the Council) burnt by the hands of the Hangman, yet about two Moneths after, ſearch being made in his houſe of <hi>Finsbury,</hi> the ſame perſons found the ſame Popiſh-Books prepared for the Preſs again, in defiance of Authority, which they ſeized and brought away the ſecond time; for which ſecond Offence he ought by Law to be diſabled for ever from the exerciſe of Printing, in caſe he had been a Lawful Maſter-Printer, whereas the Truth is, he was a Paper-Seller.</p>
+            <p n="2">II. Whereas, he pretends ſervice done to the publique by his ſupplying the Armies in <hi>Ireland</hi> and <hi>Scotland,</hi> at cheaper rates then ordinary, with Bibles; it is to be obſerved, that multitudes of Bibles being at that time printed by others, who ſold them at cheaper rates than he had done, thereupon his Bibles came to lie upon his hands as a dead Commodity, and ſo he was conſtrain<g ref="char:EOLhyphen"/>ed to put them off at eaſie rates; but it is to be obſerved likewiſe, that the cheapneſs of vending was much beſide his intention, for<g ref="char:EOLhyphen"/>aſmuch as ſince that time, a motion was made by him the ſaid <hi>Bentley,</hi> to other perſons who were then printing Bibles, that he and they might by conſent reſolve to advance the prices of Bibles to a higher rate; which he not obtaining, both himſelf and his Partners declined the whole buſineſs of printing Bibles: after which he went to the <hi>Barbado's</hi> and never ſtirred more about it, till upon his return he ſaw that the ſole printing of Bibles was by Purchaſe of the Original Manuſcript of the Tranſlation, and an Entry thereof in the Regiſter of the <hi>Stationers</hi> Company, legally veſted in his Highneſs Printers; immediately whereupon he began to lay claim to, and made many Clamors about his pretended Right, ſuppoſing thereby to have conſtrained his Highneſs Printers to admit him to partake of the benefit of their Copy; and during the time of the Clamor, one of his Partners offered his Highneſs Printers, for himſelf and <hi>Bentley,</hi> that if the ſaid Printers would accept of their laying down a third part of the monies laid out in the Pur<g ref="char:EOLhyphen"/>chaſe, and admit them to a third ſhare in the Propriety of the Bible-Copy, they would then ſhut out all others, and agree to raiſe the Price of Bibles above the rates at which they are now ſetled by his Highneſs.</p>
+            <p n="3">III. Whereas he pretends to a right of printing Bibles and Pſalms, by vertue of a Proviſo contained in the Act of Parlia<g ref="char:EOLhyphen"/>ment, dated <hi>September</hi> 20. 1649. which he cites thus, That notwithſtanding the particular Reſtrictions thereby made, that Act ſhould not extend to the Printing-preſs at <hi>Finsbury</hi> for printing Bibles and Pſalms, but that it ſhould continue to all Intents and Purpoſes, as if that Act had not been had or made. It may be obſerved, that the Intent of the ſaid Act (as appears by the Con<g ref="char:EOLhyphen"/>tents of it) is, That in regard irregular Printing increaſed, by reaſon of the multitude of Printing-preſſes erected in By-corners out of the Eye of Government, therefore no Printing-preſs ſhall hereafter be erected in any place without the Precincts of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> except the two Univerſities, <hi>York,</hi> and <hi>Finsbury;</hi> by which means, <hi>Finsbury</hi> ſtood excepted from the Reſtriction in the ſame maner as the two Univerſities and <hi>York</hi> did: ſo that the Intent of the Act was, onely to ſave <hi>Finsbury</hi> harmleſs from the Pe<g ref="char:EOLhyphen"/>nalty, notwithſtanding it ſtood out of the Precincts of <hi>London,</hi> and not to confer a Right of any Copy upon the men of <hi>Finsbury.</hi> This is not onely the Opinion of the ableſt Lawyers, but well enough underſtood by <hi>Bentley</hi> himſelf, as appears in this, That he never durſt put the Iſſue of his Clamors and Pretences upon a Tryal at Law, though often offered by His Highneſs Printers. How<g ref="char:EOLhyphen"/>ever, ſomething may be added here as conſiderable, Firſt, that <hi>Bentley</hi> in his Caſe cites the words of the Act falſly, inſerting them thus, <hi>viz: That the Act ſhould not extend to the Printing-preſs at Finsbury;</hi> whereas indeed the words are, <hi>That the Clauſe</hi> (that is to ſay, The Clauſe of the Act confining all Preſſes to the Limits of <hi>London) ſhould not extend to Finsbury:</hi> but, that in reference to the ſaid Clauſe confining, it ſhould remain as if this Act had not been had or made. Moreover, in the following part of the Act where Proviſion is made on purpoſe for the ſettling and ſecuring Titles and Propriety in Copies; there is not the leaſt mention made of any Propriety conferred upon <hi>Finsbury.</hi> Much more may be ſaid upon a full Hearing, but here we minde brevity.</p>
+            <p n="4">IV. Whereas <hi>Bentley</hi> ſaith, The Company of <hi>Stationers</hi> by irregular dealings and miſinformation were forced to make an un<g ref="char:EOLhyphen"/>due Entry in their Regiſtry of the Copy of the Bible to His Highneſs Printers, the very truth is this, That His Highneſs being in<g ref="char:EOLhyphen"/>formed, that His Printers had made a legal Purchaſe of the Original Copy of the Tranſlation of the Bible from the Proprietors, did thereupon, by ſpecial Warrant to the Company of <hi>Stationers,</hi> give direction for the Entry of the ſaid Copy for His ſaid Print<g ref="char:EOLhyphen"/>ers, as the lawful Proprietors thereof; which was done accordingly.</p>
+            <p n="5">V. Whereas <hi>Bentley</hi> charges His Highneſs Printers to have abuſed the Deputation given them from Sir <hi>Iohn Barkſtead</hi> and Mr. <hi>Foxcroft,</hi> they have, and are ſtill ready to juſtifie themſelves in what they have done by Authority of Parliament, and by the Or<g ref="char:EOLhyphen"/>ders and Inſtructions of His Highneſs and the Council, for putting the ſaid Act in execution.</p>
+            <p n="6">VI. Whereas <hi>Bentley</hi> ſets ſo high an eſteem on the Bibles of his own Printing, undervaluing all other, it appears upon a curſory view of ſome part of his Bible, that ſo many groſs Errors are in a few Pages eſcaped, that it muſt be preſumed, upon a ſtrict enquiry, they will exceed the number of thoſe againſt which he makes Complaint.</p>
+            <p>There are divers other Paſſages in his Pamphlet inſinuating matter of falſhood and ſcandal againſt His Highneſs Printers and others, which being both frivolous and falſe, it were needleſs to make any reply to them, after ſo full an anſwer given to the moſt material untruths and ſcandals. And for what is ſuggeſted (we conceive untruly) concerning the Company of <hi>Stationers,</hi> is left to their own vindication. All which are humbly ſubmitted to conſideration.</p>
+            <p>All which and more, will be made good by His Highneſs Printers.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
